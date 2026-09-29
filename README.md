@@ -15,3 +15,6 @@ open the script (DO NOT TOUCH X UNTIL THE FIRST CIRCLE)
 launch THE FINAL SONG in Drakengard 3
 skip cutscene with 1
 at the first circle press X on Keyboard
+
+
+supported frame rates [30/60/120 fps]
